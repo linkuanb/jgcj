@@ -118,6 +118,15 @@
   },
   {
     "type": "",
+    "sourceName": "豆瓣资源采集站采集接口大全",
+    "baseUrl": "",
+    "apiUrl": "https://cfkua.wokaotianshi.eu.org/https://caiji.dbzy5.com/api.php/provide/vod/at/xml",
+    "searchUrl": "",
+    "detailUrl": "",
+    "parserUrl": ""
+  },
+  {
+    "type": "",
     "sourceName": "奶香香资源站采集接口",
     "baseUrl": "",
     "apiUrl": "https://cfkua.wokaotianshi.eu.org/https://Naixxzy.com/api.php/provide/vod/at/xml",

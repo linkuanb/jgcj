@@ -104,6 +104,14 @@
     "recordable": 0
   },
   {
+    "key": "豆瓣资源采集站采集接口大全",
+    "name": "豆瓣资源采集站采集接口大全",
+    "type": 1,
+    "api": "https://cfkua.wokaotianshi.eu.org/https://caiji.dbzy5.com/api.php/provide/vod/",
+    "searchable": 1,
+    "recordable": 0
+  },
+  {
     "key": "奶香香资源站采集接口",
     "name": "奶香香资源站采集接口",
     "type": 1,
