@@ -1,223 +1,227 @@
 {
   "cache_time": 7200,
   "api_site": {
-    "5kn9": {
+    "hvne": {
       "name": "茅台资源站采集接口",
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod"
     },
-    "g0bi": {
+    "0itj": {
       "name": "如意资源网采集接口",
       "api": "https://cj.rycjapi.com/api.php/provide/vod"
     },
-    "ofew": {
+    "2nbx": {
       "name": "影剧资源网采集接口",
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod"
     },
-    "dpnu": {
+    "c8oa": {
       "name": "黑料资源网采集接口大全",
       "api": "https://www.heiliaozyapi.com/api.php/provide/vod"
     },
-    "e3nc": {
+    "k4k8": {
       "name": "红牛云播资源采集地址",
       "api": "https://www.hongniuzy2.com/api.php/provide/vod"
     },
-    "2a9k": {
+    "bjur": {
       "name": "光速资源站采集接口地址",
       "api": "https://api.guangsuapi.com/api.php/provide/vod"
     },
-    "1l0i": {
+    "qwys": {
       "name": "速播资源采集规则地址",
       "api": "https://subocj.com/api.php/provide/vod"
     },
-    "aozk": {
+    "jl7d": {
       "name": "豪华资源网采集接口地址",
       "api": "https://hhzyapi.com/api.php/provide/vod"
     },
-    "rbqe": {
+    "p9y4": {
       "name": "虎牙资源采集网采集接口",
       "api": "https://www.huyaapi.com/api.php/provide/vod"
     },
-    "qezn": {
+    "lr51": {
       "name": "爱奇艺资源站采集接口",
       "api": "https://www.iqiyizyapi.com/api.php/provide/vod"
     },
-    "qdo4": {
+    "9fpr": {
       "name": "豆瓣资源采集站采集接口大全",
       "api": "https://caiji.dbzy5.com/api.php/provide/vod"
     },
-    "oujn": {
+    "u94y": {
       "name": "X细胞资源网采集接口",
       "api": "https://www.xxibaozyw.com/api.php/provide/vod"
     },
-    "5u2i": {
+    "tkmk": {
       "name": "奶香香资源站采集接口",
       "api": "https://Naixxzy.com/api.php/provide/vod"
     },
-    "8x1v": {
+    "c0xg": {
       "name": "魔都动漫资源采集网采集接口",
       "api": "https://www.mdzyapi.com/api.php/provide/vod"
     },
-    "1qzo": {
+    "4pw5": {
       "name": "奥斯卡资源API采集接口大全",
       "api": "https://aosikazy.com/api.php/provide/vod"
     },
-    "fehk": {
+    "3gsr": {
       "name": "玉兔资源采集接口",
       "api": "https://apiyutu.com/api.php/provide/vod"
     },
-    "4q6h": {
+    "8sy5": {
       "name": "ikun资源网采集接口",
       "api": "https://ikunzyapi.com/api.php/provide/vod"
     },
-    "g7a5": {
+    "4643": {
+      "name": "西瓜资源采集接口",
+      "api": "https://caiji.xgzyapi.com/api.php/provide/vod"
+    },
+    "csoj": {
       "name": "无水印资源网采集接口",
       "api": "https://api.wsyzy.net/api.php/provide/vod"
     },
-    "plt2": {
+    "b6cv": {
       "name": "789官采资源站采集接口",
       "api": "https://www.caiji.cyou/api.php/provide/vod"
     },
-    "c23c": {
+    "7o16": {
       "name": "猫眼资源站采集接口",
       "api": "https://api.maoyanapi.top/api.php/provide/vod"
     },
-    "1w9t": {
+    "ffbp": {
       "name": "旺旺资源网采集接口",
       "api": "https://api.wwzy.tv/api.php/provide/vod"
     },
-    "71km": {
+    "h6bt": {
       "name": "155资源站采集接口",
       "api": "https://155api.com/api.php/provide/vod"
     },
-    "akjf": {
+    "nly4": {
       "name": "OK资源采集网采集接口",
       "api": "http://api.okzyw.net/api.php/provide/vod"
     },
-    "udjv": {
+    "iyvl": {
       "name": "U酷资源网采集地址",
       "api": "https://api.ukuapi88.com/api.php/provide/vod"
     },
-    "8ycb": {
+    "kwpo": {
       "name": "量子资源网资源采集接口",
       "api": "https://cj.lziapi.com/api.php/provide/vod"
     },
-    "hliw": {
+    "j0ej": {
       "name": "快车资源采集站采集接口",
       "api": "https://caiji.kczyapi.com/api.php/provide/vod"
     },
-    "y8g6": {
+    "9yje": {
       "name": "最大资源网采集接口",
       "api": "https://api.zuidapi.com/api.php/provide/vod"
     },
-    "admu": {
+    "uj45": {
       "name": "天涯影视资源网采集接口",
       "api": "https://tyyszyapi.com/api.php/provide/vod"
     },
-    "p8hj": {
+    "0rf4": {
       "name": "电影天堂采集综合资源接口",
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod"
     },
-    "8eul": {
+    "qv2z": {
       "name": "百度资源采集接口",
       "api": "https://api.apibdzy.com/api.php/provide/vod"
     },
-    "m8u2": {
+    "ava7": {
       "name": "鸭鸭（丫丫）资源网采集接口",
       "api": "https://cj.yayazy.net/api.php/provide/vod"
     },
-    "6a0o": {
+    "h2et": {
       "name": "牛牛资源网采集接口",
       "api": "https://api.niuniuzy.me/api.php/provide/vod"
     },
-    "3go7": {
+    "cb5d": {
       "name": "360资源站采集接口",
       "api": "https://360zyzz.com/api.php/provide/vod"
     },
-    "dehy": {
+    "z61b": {
       "name": "爱坤联盟资源网采集接口",
       "api": "https://www.jkunzyapi.com/api.php/provide/vod"
     },
-    "3grb": {
+    "su4g": {
       "name": "卧龙影视资源采集站采集接口",
       "api": "https://collect.wolongzy.cc/api.php/provide/vod"
     },
-    "0uh2": {
+    "opin": {
       "name": "极速资源网采集接口",
       "api": "https://jszyapi.com/api.php/provide/vod"
     },
-    "1dps": {
+    "zjnj": {
       "name": "暴风资源网采集接口",
       "api": "https://bfzyapi.com/api.php/provide/vod"
     },
-    "ei5a": {
+    "hgz1": {
       "name": "大地资源采集接口",
       "api": "https://dadiapi.com/api.php/provide/vod"
     },
-    "2k2t": {
+    "jjlw": {
       "name": "非凡资源网采集接口",
       "api": "http://api.ffzyapi.com/api.php/provide/vod"
     },
-    "tmba": {
+    "74re": {
       "name": "森林资源网采集接口",
       "api": "https://slapibf.com/api.php/provide/vod"
     },
-    "8svc": {
+    "vs8m": {
       "name": "麒麟资源站全站采集接口",
       "api": "http://www.qilinzyz.com/api.php/provide/vod"
     },
-    "9xak": {
+    "cxq0": {
       "name": "无尽资源网采集接口",
       "api": "https://api.wujinapi.me/api.php/provide/vod"
     },
-    "ieok": {
+    "4g48": {
       "name": "se窝资源网影视采集接口",
       "api": "https://sewozyapi.com/api.php/provide/vod"
     },
-    "5aac": {
+    "y1rc": {
       "name": "狼友会资源网采集接口",
       "api": "https://api.lyhapi.com/api.php/provide/vod"
     },
-    "7xbd": {
+    "qd5x": {
       "name": "GAY资源网采集接口",
       "api": "https://gayapi.com/api.php/provide/vod"
     },
-    "k7xb": {
+    "wokh": {
       "name": "老色逼资源站采集接口",
       "api": "https://apilsbzy1.com/api.php/provide/vod"
     },
-    "3vaj": {
+    "d36b": {
       "name": "色色虎资源网采集接口",
       "api": "https://apisesehuzy.com/api.php/provide/vod"
     },
-    "q15w": {
+    "3cen": {
       "name": "好色资源网采集接口地址",
       "api": "https://haosezyw.com/api.php/provide/vod"
     },
-    "ntfx": {
+    "w63m": {
       "name": "极品资源网采集接口",
       "api": "https://jipinzyapi.com/api.php/provide/vod"
     },
-    "hh5u": {
+    "75jn": {
       "name": "色戒资源站采集接口",
       "api": "https://sjzy.tv/api.php/provide/vod"
     },
-    "eg7v": {
+    "x27n": {
       "name": "搜av资源站采集接口",
       "api": "https://api.souavzy.vip/api.php/provide/vod"
     },
-    "vkj7": {
+    "lnpr": {
       "name": "黄色仓库资源采集网采集接口",
       "api": "https://hsckzy888.com/api.php/provide/vod"
     },
-    "2uq4": {
+    "2ekp": {
       "name": "杏吧资源站采集接口",
       "api": "https://xingba222.com/api.php/provide/vod"
     },
-    "ij2k": {
+    "cvae": {
       "name": "大奶子资源网采集接口",
       "api": "https://apidanaizi.com/api.php/provide/vod"
     },
-    "pmwl": {
+    "c1gf": {
       "name": "杏资源站影视采集站采集接口",
       "api": "https://xzybb1.com/api.php/provide/vod"
     }
