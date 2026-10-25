@@ -1,5 +1,6 @@
 赞助茅台资源站采集接口苹果cms / 海洋cms / 飞飞cms / 马克斯CMS / 赞片CMS / 赤兔CMS / API电影 / 电视剧 / 动漫 / 综艺 / 体育 / 舞蹈 / 新闻,https://caiji.maotaizy.cc/api.php/provide/vod/at/xml/
 赞助如意资源网采集接口苹果cms / 海洋cms / 飞飞cms / 马克斯CMS / 赞片CMS / 赤兔CMS / API电影 / 电视剧 / 动漫 / 综艺 / 短视频,https://cj.rycjapi.com/api.php/provide/vod/at/xml/
+赞助新芒果资源站采集接口苹果cms / 海洋cms / 飞飞cms / 赞片CMS电影 / 电视剧 / 动漫 / 综艺,https://caiji.mgzyapi.com/api.php/provide/vod/at/xml/
 赞助影剧资源网采集接口苹果cms / 海洋cms / 飞飞cms / 马克斯CMS / 赞片CMS / 赤兔CMS电影 / 电视剧 / 动漫 / 综艺 / 体育 / 短视频 / 新闻,https://caiji.maotaizy.cc/api.php/provide/vod/at/xml/
 赞助黑料资源网采集接口大全苹果cms / 海洋cms / 飞飞cms / 马克斯CMS / 赞片CMS / 赤兔CMS / API小说 / 其他,https://www.heiliaozyapi.com/api.php/provide/vod/at/xml/
 赞助红牛资源采集地址苹果cms / 海洋cms / 飞飞cms / 马克斯CMS / 赞片CMS / 赤兔CMS电影 / 电视剧 / 动漫 / 综艺 / 短视频 / 其他,https://www.hongniuzy2.com/api.php/provide/vod/at/xml/
@@ -14,6 +15,7 @@
 赞助奥斯卡资源API采集接口大全苹果cms / 海洋cms / 飞飞cms / 马克斯CMS / 赞片CMS / API小说 / 其他,https://aosikazy.com/api.php/provide/vod/at/xml/
 赞助玉兔资源采集接口API小说 / 其他,https://apiyutu.com/api.php/provide/vod/at/xml/
 赞助ikun资源网采集接口API电影 / 电视剧 / 动漫 / 小说,https://ikunzyapi.com/api.php/provide/vod/at/xml/
+厂长资源采集接口苹果cms / 海洋cms / 飞飞cms / 赞片CMS电影 / 电视剧 / 动漫 / 综艺,https://api.changzhang.tv/api.php/provide/vod/at/xml/
 大众资源采集接口苹果cms / 海洋cms / 飞飞cms / 赞片CMS / 赤兔CMS / API电影 / 电视剧 / 动漫 / 综艺,https://cdn.dzzyapi.com/api.php/provide/vod/at/xml/
 UU资源网采集接口苹果cms / 海洋cms / 飞飞cms / 马克斯CMS / 赞片CMS / API电影 / 电视剧 / 动漫 / 综艺,http://localhost/api.php/provide/vod/at/xml/
 西瓜资源采集接口苹果cms / 海洋cms / 飞飞cms / 赞片CMS电影 / 电视剧 / 动漫 / 综艺,https://caiji.xgzyapi.com/api.php/provide/vod/at/xml/

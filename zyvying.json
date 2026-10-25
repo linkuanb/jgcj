@@ -12,6 +12,12 @@
     "useInSearchAll": true
   },
   {
+    "key": "赞助新芒果资源站采集接口苹果cms / 海洋cms / 飞飞cms / 赞片CMS电影 / 电视剧 / 动漫 / 综艺",
+    "name": "赞助新芒果资源站采集接口苹果cms / 海洋cms / 飞飞cms / 赞片CMS电影 / 电视剧 / 动漫 / 综艺",
+    "api": "https://cfkua.wokaotianshi.eu.org/https://caiji.mgzyapi.com/api.php/provide/vod/at/xml",
+    "useInSearchAll": true
+  },
+  {
     "key": "赞助影剧资源网采集接口苹果cms / 海洋cms / 飞飞cms / 马克斯CMS / 赞片CMS / 赤兔CMS电影 / 电视剧 / 动漫 / 综艺 / 体育 / 短视频 / 新闻",
     "name": "赞助影剧资源网采集接口苹果cms / 海洋cms / 飞飞cms / 马克斯CMS / 赞片CMS / 赤兔CMS电影 / 电视剧 / 动漫 / 综艺 / 体育 / 短视频 / 新闻",
     "api": "https://cfkua.wokaotianshi.eu.org/https://caiji.maotaizy.cc/api.php/provide/vod/at/xml",
@@ -93,6 +99,12 @@
     "key": "赞助ikun资源网采集接口API电影 / 电视剧 / 动漫 / 小说",
     "name": "赞助ikun资源网采集接口API电影 / 电视剧 / 动漫 / 小说",
     "api": "https://cfkua.wokaotianshi.eu.org/https://ikunzyapi.com/api.php/provide/vod/at/xml",
+    "useInSearchAll": true
+  },
+  {
+    "key": "厂长资源采集接口苹果cms / 海洋cms / 飞飞cms / 赞片CMS电影 / 电视剧 / 动漫 / 综艺",
+    "name": "厂长资源采集接口苹果cms / 海洋cms / 飞飞cms / 赞片CMS电影 / 电视剧 / 动漫 / 综艺",
+    "api": "https://cfkua.wokaotianshi.eu.org/https://api.changzhang.tv/api.php/provide/vod/at/xml",
     "useInSearchAll": true
   },
   {
