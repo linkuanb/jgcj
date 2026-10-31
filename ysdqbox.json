@@ -19,6 +19,15 @@
   },
   {
     "type": "",
+    "sourceName": "赞助看看资源采集接口苹果cms / 海洋cms / 飞飞cms / 马克斯CMS / 赞片CMS / 赤兔CMS / API其他",
+    "baseUrl": "",
+    "apiUrl": "https://cfkua.wokaotianshi.eu.org/https://f-1.cc/api.php/provide/vod/at/xml",
+    "searchUrl": "",
+    "detailUrl": "",
+    "parserUrl": ""
+  },
+  {
+    "type": "",
     "sourceName": "赞助新芒果资源站采集接口苹果cms / 海洋cms / 飞飞cms / 赞片CMS电影 / 电视剧 / 动漫 / 综艺",
     "baseUrl": "",
     "apiUrl": "https://cfkua.wokaotianshi.eu.org/https://caiji.mgzyapi.com/api.php/provide/vod/at/xml",
