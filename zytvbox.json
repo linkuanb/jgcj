@@ -16,6 +16,14 @@
     "recordable": 0
   },
   {
+    "key": "赞助星夜资源站采集接口苹果cms / 海洋cms / 飞飞cms / 马克斯CMS / 赞片CMS / 赤兔CMS / API其他",
+    "name": "赞助星夜资源站采集接口苹果cms / 海洋cms / 飞飞cms / 马克斯CMS / 赞片CMS / 赤兔CMS / API其他",
+    "type": 1,
+    "api": "https://cfkua.wokaotianshi.eu.org/https://xyezy.com/api.php/provide/vod/",
+    "searchable": 1,
+    "recordable": 0
+  },
+  {
     "key": "赞助看看资源采集接口苹果cms / 海洋cms / 飞飞cms / 马克斯CMS / 赞片CMS / 赤兔CMS / API其他",
     "name": "赞助看看资源采集接口苹果cms / 海洋cms / 飞飞cms / 马克斯CMS / 赞片CMS / 赤兔CMS / API其他",
     "type": 1,
