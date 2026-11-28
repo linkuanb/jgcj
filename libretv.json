@@ -1,175 +1,179 @@
 {
   "cache_time": 7200,
   "api_site": {
-    "6m3a": {
+    "nbzy": {
       "name": "赞助茅台资源站采集接口苹果cms / 海洋cms / 飞飞cms / 马克斯CMS / 赞片CMS / 赤兔CMS / API电影 / 电视剧 / 动漫 / 综艺 / 体育 / 舞蹈 / 新闻",
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod"
     },
-    "yskz": {
+    "p351": {
       "name": "赞助如意资源网采集接口苹果cms / 海洋cms / 飞飞cms / 马克斯CMS / 赞片CMS / 赤兔CMS / API电影 / 电视剧 / 动漫 / 综艺 / 短视频",
       "api": "https://cj.rycjapi.com/api.php/provide/vod"
     },
-    "zjpb": {
+    "210m": {
       "name": "赞助星夜资源站采集接口苹果cms / 海洋cms / 飞飞cms / 马克斯CMS / 赞片CMS / 赤兔CMS / API其他",
       "api": "https://xyezy.com/api.php/provide/vod"
     },
-    "mh2k": {
+    "s9vi": {
       "name": "赞助看看资源采集接口苹果cms / 海洋cms / 飞飞cms / 马克斯CMS / 赞片CMS / 赤兔CMS / API其他",
       "api": "https://f-1.cc/api.php/provide/vod"
     },
-    "h82q": {
+    "55mc": {
       "name": "赞助新芒果资源站采集接口苹果cms / 海洋cms / 飞飞cms / 赞片CMS电影 / 电视剧 / 动漫 / 综艺",
       "api": "https://caiji.mgzyapi.com/api.php/provide/vod"
     },
-    "phm9": {
+    "cpmg": {
       "name": "赞助影剧资源网采集接口苹果cms / 海洋cms / 飞飞cms / 马克斯CMS / 赞片CMS / 赤兔CMS电影 / 电视剧 / 动漫 / 综艺 / 体育 / 短视频 / 新闻",
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod"
     },
-    "m8pi": {
+    "03eu": {
       "name": "赞助黑料资源网采集接口大全苹果cms / 海洋cms / 飞飞cms / 马克斯CMS / 赞片CMS / 赤兔CMS / API小说 / 其他",
       "api": "https://www.heiliaozyapi.com/api.php/provide/vod"
     },
-    "4jsn": {
+    "2esn": {
       "name": "赞助红牛资源采集地址苹果cms / 海洋cms / 飞飞cms / 马克斯CMS / 赞片CMS / 赤兔CMS电影 / 电视剧 / 动漫 / 综艺 / 短视频 / 其他",
       "api": "https://www.hongniuzy2.com/api.php/provide/vod"
     },
-    "9mrz": {
+    "9so8": {
       "name": "赞助光速资源站采集接口地址苹果cms / 海洋cms / 飞飞cms / 马克斯CMS / 赞片CMS / 赤兔CMS电影 / 电视剧 / 动漫 / 综艺 / 体育 / 短视频 / 其他",
       "api": "https://api.guangsuapi.com/api.php/provide/vod"
     },
-    "b6w0": {
+    "0mmd": {
       "name": "赞助速播资源采集规则地址苹果cms / 海洋cms / 飞飞cms / 赞片CMS / 赤兔CMS电影 / 电视剧 / 动漫 / 综艺 / 短视频",
       "api": "https://subocj.com/api.php/provide/vod"
     },
-    "o4da": {
+    "scjv": {
       "name": "赞助豪华资源网采集接口地址苹果cms / 海洋cms / 飞飞cms / 马克斯CMS电影 / 电视剧 / 动漫 / 综艺 / 短视频 / 其他",
       "api": "https://hhzyapi.com/api.php/provide/vod"
     },
-    "uw9y": {
+    "3q2h": {
       "name": "赞助虎牙资源采集网采集接口苹果cms / 海洋cms / 飞飞cms / 赞片CMS电影 / 电视剧 / 动漫 / 综艺 / 体育 / 短视频",
       "api": "https://www.huyaapi.com/api.php/provide/vod"
     },
-    "axkv": {
+    "vi5o": {
       "name": "赞助爱奇艺资源站采集接口苹果cms / 海洋cms / 飞飞cms / 赞片CMS电影 / 电视剧 / 动漫 / 综艺 / 短视频 / 其他",
       "api": "https://www.iqiyizyapi.com/api.php/provide/vod"
     },
-    "buzm": {
+    "tg03": {
       "name": "赞助豆瓣资源采集站采集接口大全苹果cms / 海洋cms / 飞飞cms / 马克斯CMS / 赞片CMS电影 / 电视剧 / 动漫 / 综艺 / 小说 / 体育 / 短视频 / 新闻",
       "api": "https://caiji.dbzy5.com/api.php/provide/vod"
     },
-    "u6e6": {
+    "kgdz": {
       "name": "赞助奶香香资源站采集接口API小说 / 其他",
       "api": "https://Naixxzy.com/api.php/provide/vod"
     },
-    "iz5j": {
+    "6oul": {
       "name": "赞助魔都动漫资源采集网采集接口苹果cms / 海洋cms / 飞飞cms / 马克斯CMS电影 / 电视剧 / 动漫 / 综艺",
       "api": "https://www.mdzyapi.com/api.php/provide/vod"
     },
-    "38xn": {
+    "4wkp": {
       "name": "赞助奥斯卡资源API采集接口大全苹果cms / 海洋cms / 飞飞cms / 马克斯CMS / 赞片CMS / API小说 / 其他",
       "api": "https://aosikazy.com/api.php/provide/vod"
     },
-    "nzcz": {
+    "ibpp": {
       "name": "赞助玉兔资源采集接口API小说 / 其他",
       "api": "https://apiyutu.com/api.php/provide/vod"
     },
-    "alkq": {
+    "owd4": {
       "name": "赞助ikun资源网采集接口API电影 / 电视剧 / 动漫 / 小说",
       "api": "https://ikunzyapi.com/api.php/provide/vod"
     },
-    "kr9d": {
+    "obtv": {
+      "name": "吉吉资源采集接口苹果cms / 海洋cms / 飞飞cms / 赞片CMS / API电影 / 电视剧 / 动漫 / 综艺",
+      "api": "http://caiji.jjzyapi.com/api.php/provide/vod"
+    },
+    "sknf": {
       "name": "厂长资源采集接口苹果cms / 海洋cms / 飞飞cms / 赞片CMS电影 / 电视剧 / 动漫 / 综艺",
       "api": "https://api.changzhang.tv/api.php/provide/vod"
     },
-    "51rn": {
+    "07ms": {
       "name": "大众资源采集接口苹果cms / 海洋cms / 飞飞cms / 赞片CMS / 赤兔CMS / API电影 / 电视剧 / 动漫 / 综艺",
       "api": "https://cdn.dzzyapi.com/api.php/provide/vod"
     },
-    "k8lg": {
+    "n8lk": {
       "name": "UU资源网采集接口苹果cms / 海洋cms / 飞飞cms / 马克斯CMS / 赞片CMS / API电影 / 电视剧 / 动漫 / 综艺",
       "api": "http://localhost/api.php/provide/vod"
     },
-    "hkqp": {
+    "v5hu": {
       "name": "西瓜资源采集接口苹果cms / 海洋cms / 飞飞cms / 赞片CMS电影 / 电视剧 / 动漫 / 综艺",
       "api": "https://caiji.xgzyapi.com/api.php/provide/vod"
     },
-    "39jy": {
+    "q8ci": {
       "name": "无水印资源网采集接口苹果cms / 海洋cms / API电影 / 电视剧 / 动漫 / 短视频",
       "api": "https://api.wsyzy.net/api.php/provide/vod"
     },
-    "zj4i": {
+    "mrgn": {
       "name": "猫眼资源站采集接口苹果cms电影 / 电视剧 / 动漫 / 综艺 / 短视频 / 其他",
       "api": "https://api.maoyanapi.top/api.php/provide/vod"
     },
-    "tpyw": {
+    "uvbd": {
       "name": "OK资源采集网采集接口苹果cms电影 / 电视剧 / 动漫 / 综艺 / 小说 / 体育 / 直播 / 其他",
       "api": "http://api.okzyw.net/api.php/provide/vod"
     },
-    "ndia": {
+    "uy2q": {
       "name": "U酷资源网采集地址苹果cms / 海洋cms电影 / 电视剧 / 动漫 / 综艺 / 短视频",
       "api": "https://api.ukuapi88.com/api.php/provide/vod"
     },
-    "qah5": {
+    "o85n": {
       "name": "量子资源网资源采集接口苹果cms / 海洋cms / 飞飞cms / 赞片CMS / 赤兔CMS / API电影 / 电视剧 / 动漫 / 综艺 / 短视频",
       "api": "https://cj.lziapi.com/api.php/provide/vod"
     },
-    "lr2z": {
+    "okq8": {
       "name": "最大资源网采集接口苹果cms / 海洋cms / 飞飞cms / 马克斯CMS / 赞片CMS / API电影 / 电视剧 / 动漫 / 综艺 / 小说 / 体育 / 直播 / 其他",
       "api": "https://api.zuidapi.com/api.php/provide/vod"
     },
-    "vv31": {
+    "arat": {
       "name": "天涯影视资源网采集接口苹果cms / 海洋cms / 飞飞cms电影 / 电视剧 / 动漫 / 综艺 / 短视频 / 其他",
       "api": "https://tyyszyapi.com/api.php/provide/vod"
     },
-    "4mwj": {
+    "v6ae": {
       "name": "电影天堂采集综合资源接口苹果cms / 海洋cms / 飞飞cms / 马克斯CMS电影 / 电视剧 / 动漫 / 综艺 / 短视频",
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod"
     },
-    "7pvu": {
+    "epu5": {
       "name": "百度资源采集接口苹果cms / 海洋cms / 飞飞cms / 马克斯CMS / 赞片CMS / 赤兔CMS电影 / 电视剧 / 动漫 / 综艺 / 体育 / 短视频 / 其他",
       "api": "https://api.apibdzy.com/api.php/provide/vod"
     },
-    "fb2n": {
+    "oyz7": {
       "name": "鸭鸭（丫丫）资源网采集接口API电影 / 电视剧 / 动漫 / 综艺 / 小说 / 体育 / 其他",
       "api": "https://cj.yayazy.net/api.php/provide/vod"
     },
-    "sebe": {
+    "6k38": {
       "name": "牛牛资源网采集接口苹果cms电影 / 电视剧 / 动漫 / 综艺 / 小说 / 体育 / 其他",
       "api": "https://api.niuniuzy.me/api.php/provide/vod"
     },
-    "h3mv": {
+    "t6sw": {
       "name": "360资源站采集接口苹果cms / 海洋cms / 飞飞cms / 赤兔CMS电影 / 电视剧 / 动漫 / 综艺 / 短视频",
       "api": "https://360zyzz.com/api.php/provide/vod"
     },
-    "bgba": {
+    "96c9": {
       "name": "极速资源网采集接口苹果cms / 海洋cms / 飞飞cms / 赞片CMS / API电影 / 电视剧 / 动漫 / 综艺 / 短视频",
       "api": "https://jszyapi.com/api.php/provide/vod"
     },
-    "md62": {
+    "kn4z": {
       "name": "暴风资源网采集接口苹果cms / 海洋cms / 飞飞cms / 马克斯CMS / 赞片CMS电影 / 电视剧 / 动漫 / 综艺 / 短视频",
       "api": "https://bfzyapi.com/api.php/provide/vod"
     },
-    "euqi": {
+    "vncu": {
       "name": "大地资源采集接口苹果cms小说 / 其他",
       "api": "https://dadiapi.com/api.php/provide/vod"
     },
-    "m8n4": {
+    "uq6g": {
       "name": "非凡资源网采集接口API电影 / 电视剧 / 动漫 / 综艺 / 短视频",
       "api": "http://api.ffzyapi.com/api.php/provide/vod"
     },
-    "jfvn": {
+    "0xld": {
       "name": "麒麟资源站全站采集接口苹果cms / 海洋cms / 飞飞cms / 赞片CMS / API电影 / 电视剧 / 动漫 / 综艺 / 短视频",
       "api": "http://www.qilinzyz.com/api.php/provide/vod"
     },
-    "qegd": {
+    "cxtx": {
       "name": "无尽资源网采集接口苹果cms / 海洋cms / 飞飞cms / 马克斯CMS / 赞片CMS电影 / 电视剧 / 动漫 / 综艺 / 短视频",
       "api": "https://api.wujinapi.me/api.php/provide/vod"
     },
-    "e5zd": {
+    "vdwj": {
       "name": "久久热资源网采集接口苹果cms / 海洋cms / 飞飞cms / 赞片CMS小说 / 其他",
       "api": "https://99reapi.com/api.php/provide/vod"
     },
-    "bzh9": {
+    "5i6y": {
       "name": "极品资源网采集接口苹果cms / 海洋cms / 飞飞cms / 马克斯CMS / 赞片CMS / 赤兔CMS电影 / 其他",
       "api": "https://jipinzyapi.com/api.php/provide/vod"
     }

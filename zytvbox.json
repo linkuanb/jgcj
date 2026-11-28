@@ -152,6 +152,14 @@
     "recordable": 0
   },
   {
+    "key": "吉吉资源采集接口苹果cms / 海洋cms / 飞飞cms / 赞片CMS / API电影 / 电视剧 / 动漫 / 综艺",
+    "name": "吉吉资源采集接口苹果cms / 海洋cms / 飞飞cms / 赞片CMS / API电影 / 电视剧 / 动漫 / 综艺",
+    "type": 1,
+    "api": "https://cfkua.wokaotianshi.eu.org/http://caiji.jjzyapi.com/api.php/provide/vod/",
+    "searchable": 1,
+    "recordable": 0
+  },
+  {
     "key": "厂长资源采集接口苹果cms / 海洋cms / 飞飞cms / 赞片CMS电影 / 电视剧 / 动漫 / 综艺",
     "name": "厂长资源采集接口苹果cms / 海洋cms / 飞飞cms / 赞片CMS电影 / 电视剧 / 动漫 / 综艺",
     "type": 1,
